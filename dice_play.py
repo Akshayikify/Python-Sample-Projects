@@ -8,4 +8,4 @@ if user_input=='y':
     print(f'The rolled dice number is {dice_roll}')
 else:
     print("oh! Try next time.")
-    
+print("Thanks for playing game.")
