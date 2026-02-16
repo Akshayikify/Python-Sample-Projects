@@ -6,4 +6,4 @@ trimmed_url=url.strip()
 
 img=qrcode.make(trimmed_url)
 
-img.save('QRCode image.png')
+img.save('QRCode image.jpg')
